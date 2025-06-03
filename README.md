@@ -7,6 +7,8 @@ A comprehensive Bank Management System built using C++ and Object-Oriented Progr
 
 
 ## ✨ Key Features
+### 👥 Login
+![Login](screenshots/Login.png)
 
 ### 👥 Client Management
 - 📊 View list of clients
@@ -16,6 +18,8 @@ A comprehensive Bank Management System built using C++ and Object-Oriented Progr
 - 🔍 Find client
 
 ![Client Management](screenshots/MainScreen.png)
+![List Clients](screenshots/ListClients.png)
+![Add Client](screenshots/AddClient.png)
 
 ### 💰 Financial Transactions
 - 💵 Deposit funds
@@ -80,5 +84,3 @@ bank-system/
 2. Compile the project using C++ compiler
 3. Run the executable file
 4. Login with default credentials (admin/admin)
-
-![Getting Started](screenshots/Login.png) 
