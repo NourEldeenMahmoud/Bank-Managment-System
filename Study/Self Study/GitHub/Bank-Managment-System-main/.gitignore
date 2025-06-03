@@ -1,0 +1,26 @@
+# تجاهل مجلدات النظام والملفات غير المرتبطة
+$RECYCLE.BIN/
+System Volume Information/
+.vs/
+Downloads/
+Games/
+League of Legends/
+Memories/
+SetUps/
+SteamLibrary/
+Apps/
+Courses/
+Nour/
+Projects/
+prject sources/
+System Analysis/
+Web/
+oop/
+Ahm/
+Assembly/
+Eldemoksy/
+OR/
+Prolog/
+projects/
+*.mp4
+*.doc
