@@ -19,7 +19,6 @@ A comprehensive Bank Management System built using C++ and Object-Oriented Progr
 
 ![Client Management](screenshots/MainScreen.png)
 ![List Clients](screenshots/ListClients.png)
-![Add Client](screenshots/AddClient.png)
 
 ### 💰 Financial Transactions
 - 💵 Deposit funds
