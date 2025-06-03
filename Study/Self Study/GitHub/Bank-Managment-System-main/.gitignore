@@ -1,29 +1,3 @@
-# تجاهل مجلدات النظام والملفات غير المرتبطة
-$RECYCLE.BIN/
-System Volume Information/
-.vs/
-Downloads/
-Games/
-League of Legends/
-Memories/
-SetUps/
-SteamLibrary/
-Apps/
-Courses/
-Nour/
-Projects/
-prject sources/
-System Analysis/
-Web/
-oop/
-Ahm/
-Assembly/
-Eldemoksy/
-OR/
-Prolog/
-projects/
-*.mp4
-*.doc
 # الدلائل والملفات غير المهمة
 $RECYCLE.BIN/
 .vs/
@@ -54,3 +28,4 @@ projects/
 # استبعاد الملفات ذات الأسماء المشفرة
 "\331\201\331\212\330\262\331\212\330\247/"
 "\330\247\331\204\330\263\331\212\330\261\330\251 \330\247\331\204\330\260\330\247\330\252\331\212\330\251 1445 -2.doc"
+System Volume Information/
