@@ -1,0 +1,15 @@
+
+
+# VS indexes / Copilot
+*.vsidx
+.vs/**/CopilotIndices/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+EOF
+bash
+Copy code
